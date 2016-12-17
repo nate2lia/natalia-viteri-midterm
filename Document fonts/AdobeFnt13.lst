@@ -1,0 +1,62 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UniversLT
+FamilyName:Univers LT 55
+StyleName:Regular
+MenuName:Univers LT 55
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Univers LT 55 Roman
+WritingScript:Roman
+OutlineFileName:\527920.ttf
+DataFormat:sfntData
+FileLength:68848
+FileModTime:1475931872
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:UniversLTPro-45Light
+FamilyName:Univers LT Pro
+StyleName:45 Light
+MenuName:Univers LT Pro 45 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Univers LT Pro 45 Light
+WritingScript:Roman
+OutlineFileName:\609552.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:52708
+FileModTime:1475931968
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UniversLTPro-LightCond
+FamilyName:Univers LT Pro
+StyleName:47 Light Condensed
+MenuName:Univers LT Pro 47 Lt Cn
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Univers LT Pro 47 Lt Cn
+WritingScript:Roman
+OutlineFileName:\676931.ttf
+DataFormat:sfntData
+FileLength:73128
+FileModTime:1475931297
+%EndFont
+
